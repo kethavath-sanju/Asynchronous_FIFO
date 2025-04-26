@@ -12,3 +12,14 @@ This project implements an asynchronous FIFO using Verilog/SystemVerilog. It sup
 ## Files
 - `FIFO.v.v`: Main FIFO module
 - `FIFO_tb.v`: Testbench
+
+##  Schematic Diagram
+
+![Schematic diagram](images/Schematic_diagram.png)
+
+##  Simulation Waveform
+
+![RTL Simation](images/Simulation_waveform.png)
+
+##  Synthesized RTL Netlist
+
