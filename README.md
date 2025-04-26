@@ -15,11 +15,11 @@ This project implements an asynchronous FIFO using Verilog/SystemVerilog. It sup
 
 ##  Schematic Diagram
 
-![Schematic diagram](images/Schematic_diagram.png)
+![Schematic diagram](Images/Schematic_diagram.png)
 
 ##  Simulation Waveform
 
-![RTL Simation](images/Simulation_waveform.png)
+![RTL Simation](Images/Simulation_waveform.png)
 
 ##  Synthesized RTL Netlist
 
