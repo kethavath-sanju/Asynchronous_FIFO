@@ -22,4 +22,10 @@ This project implements an asynchronous FIFO using Verilog/SystemVerilog. It sup
 ![RTL Simation](Images/Simulation_waveform.png)
 
 ##  Synthesized RTL Netlist
+![RTL Netlist](Images/Synthesized_netlist.png)
 
+## Power Analysis
+![Power Report](Images/Power_Analysis.png)
+
+## Code Coverages
+![Code Coverage Analysis](Images/Code_coverage.png)
